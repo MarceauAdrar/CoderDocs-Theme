@@ -1,0 +1,71 @@
+.box {
+    background-color: #282C34;
+    border-radius: 6px;
+    padding: 10px 15px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+
+.methode {
+    padding: 3px 20px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+.get {
+    background-color: #009CDE;
+}
+
+.post {
+    background-color: #00CF92;
+}
+
+.put {
+    background-color: #640487;
+}
+
+.delete {
+    background-color: #87001f;
+}
+
+#section-missions {
+    background-image: url("https://marceau-rodrigues.fr/erp/public/formation/imgs/chaudron.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#section-introduction {
+    background-image: url("https://marceau-rodrigues.fr/erp/public/formation/imgs/choixpeau.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#section-api {
+    background-image: url("https://marceau-rodrigues.fr/erp/public/formation/imgs/mangemort.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#section-postman {
+    background-image: url("https://marceau-rodrigues.fr/erp/public/formation/imgs/glasses.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#section-status {
+    background-image: url("https://marceau-rodrigues.fr/erp/public/formation/imgs/key.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#section-faq {
+    background-image: url("https://marceau-rodrigues.fr/erp/public/formation/imgs/broom.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+table tr th {
+    font-size: 12px;
+}
